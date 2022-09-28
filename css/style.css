@@ -1,0 +1,43 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+body{
+    font-family: Arial, Helvetica, sans-serif;
+}
+.container{
+    width: 920px;
+    margin: 0 auto;
+}
+.nav-bar{
+    background-color: rgb(253, 104, 50);
+    padding: 1rem;
+}
+.row{
+    display: flex;
+    justify-content: space-between;
+}
+.links-container ul{
+    list-style: none;
+    display: flex;
+    
+
+}
+.links-container ul a{
+    text-decoration: none;
+    color: white;
+    padding: 0.5rem;
+}
+
+.logo-container{
+    width: 10%;
+    
+}
+.logo-container img{
+    width: 100%;
+}
+
+.links-container i{
+    color: white;
+}
