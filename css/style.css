@@ -73,7 +73,9 @@ body{
     width: 100%;
     
 }
-
+.item-text-container{
+    margin-top: 0.5rem;
+}
 .item-text-container h5{
     display: inline-block;
     color: red;
